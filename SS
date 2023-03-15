@@ -1,0 +1,2 @@
+# Using-switch-statements-2
+This Program is a modification of the character cases, in this case, it uses switch statements to determine which output to give the user based on the character inputted
